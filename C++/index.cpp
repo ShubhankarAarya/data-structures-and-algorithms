@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//01. Input Output
+// #include<iostream>
+// int main() {
+//     std::cout<<"Hey Shubhankar!"<<"\n";
+//     std::cout<<"Shubhankar";
+//     return 0;
+// }
+
+// #include<iostream>
+// using namespace std;
+// int main() {
+//     cout<<"Hey Shubhankar!"<<"\n";
+//     cout<<"Shubhankar";
+//     return 0;
+// }
+
+// #include<iostream>
+// using namespace std;
+
+// int main(){
+//     int x,y;
+//     cin >> x >>y;
+//     cout << "Value of x:" << x << "\nvalue of y:" << y;
+//     return 0;
+// }
+//------------------------------
+
+//02.DataTypes
+
+//Note
+//float, double used for decimal number
+
+int main() {
+   int x = 10;
+   cin >> x;
+   cout << x;
+
+   long y = 1500000000;
+   cin >> y;
+   cout << y;
+    return 0;
+}
